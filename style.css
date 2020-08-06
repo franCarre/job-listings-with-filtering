@@ -46,7 +46,7 @@ p.job-company {
 .header {
   position: relative;
   height: 200px;
-  background: url("../images/bg-header-desktop.svg") no-repeat center center;
+  background: url("images/bg-header-desktop.svg") no-repeat center center;
   background-color: var(--primary);
   background-size: cover;
 }
